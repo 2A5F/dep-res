@@ -54,4 +54,7 @@ fn test_1() {
     let r = r.unwrap();
     let items = r.sorted_by_level();
     println!("{:?}", items);
+    println!("");
+    let levels = r.iter_level().collect::<Vec<_>>();
+    println!("{:?}", levels);
 }
