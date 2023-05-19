@@ -1,5 +1,10 @@
 # dep-res
 
+![Rust](https://github.com/2A5F/dep-res/workflows/Rust/badge.svg)
+[![version](https://img.shields.io/crates/v/dep-res)](https://crates.io/crates/dep-res)
+[![documentation](https://docs.rs/dep-res/badge.svg)](https://docs.rs/dep-res)
+![LICENSE](https://img.shields.io/crates/l/dep-res)
+
 Simple dependency resolution
 
 ## Example
